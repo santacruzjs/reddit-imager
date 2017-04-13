@@ -16,10 +16,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      item: 'This is my item.',
-      images: [{
-        title: 'Foo'
-      }],
+      images: [],
       loading: false
     }
   },
